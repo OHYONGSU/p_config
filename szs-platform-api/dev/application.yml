@@ -1,0 +1,4 @@
+szs:
+  activeProfile: ${spring.profiles.active}
+
+test-url : "redis - ${activeProfile}"
