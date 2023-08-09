@@ -1,3 +1,1 @@
-szs:
-  activeProfile: ${spring.profiles.active}
-
+platform-redis-host: 'platform-dev'
