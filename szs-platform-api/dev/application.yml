@@ -1,1 +1,1 @@
-platform-redis-host: 'platform-dev'
+redis-url: 'platform-dev'
