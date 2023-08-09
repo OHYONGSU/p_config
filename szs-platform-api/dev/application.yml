@@ -1,1 +1,2 @@
-redis-url: 'platform-dev'
+redis-url: 'dev-redis'
+database-url: 'dev-database'

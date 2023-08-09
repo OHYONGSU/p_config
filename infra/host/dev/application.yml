@@ -1,1 +1,2 @@
 platform-redis-host: 'host-dev'
+platform-database-host: 'host-dev-database'

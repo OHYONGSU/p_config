@@ -1,1 +1,2 @@
 platform-redis-host: 'host-prd'
+platform-database-host: 'host-prd-database'
