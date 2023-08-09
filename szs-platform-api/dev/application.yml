@@ -1,2 +1,2 @@
 redis-url: 'dev-redis'
-database-url: 'dev-database'
+database-url: '${platform-database-host}'
