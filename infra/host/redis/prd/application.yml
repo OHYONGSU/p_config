@@ -1,4 +1,4 @@
 redis:
-  cache: cache-stg-redis
-  vat: vat-stg-redis
-  app-api: app-stg-redis
+  cache: cache-prd-redis
+  vat: vat-prd-redis
+  app-api: app-prd-redis
