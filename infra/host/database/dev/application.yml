@@ -1,0 +1,5 @@
+database:
+  szs: szs-dev-endpoint
+  platform: platform-dev-endpoint
+  retention: retention-dev-endpoint
+  dingdong: dingdong-dev-endpoint

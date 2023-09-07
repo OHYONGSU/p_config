@@ -1,0 +1,5 @@
+api:
+  hermes: api-hermes-stg-end-point
+  terry: api-terry-stg-end-point
+  platform: api-platform-stg-end-point
+  dingdong: api-dingdong-stg-end-point

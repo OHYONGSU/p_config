@@ -1,2 +1,0 @@
-redis-host : cache-redis
-redis-url : "${platform-redis-host}"

@@ -1,0 +1,5 @@
+database:
+  szs: szs-stg-endpoint
+  platform: platform-stg-endpoint
+  retention: retention-stg-endpoint
+  dingdong: dingdong-stg-endpoint

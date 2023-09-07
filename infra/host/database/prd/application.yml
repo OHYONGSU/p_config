@@ -1,0 +1,5 @@
+database:
+  szs: szs-prd-endpoint
+  platform: platform-prd-endpoint
+  retention: retention-prd-endpoint
+  dingdong: dingdong-prd-endpoint

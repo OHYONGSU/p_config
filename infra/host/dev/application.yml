@@ -1,2 +1,0 @@
-platform-redis-host: 'host-dev${redis-host}'
-platform-database-host: 'host-dev-database'

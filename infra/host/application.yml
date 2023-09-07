@@ -1,4 +1,0 @@
-jobis:
-  apps:
-    money-api:
-      url: https://money-api.${app.phase.code}.3o3.co.kr

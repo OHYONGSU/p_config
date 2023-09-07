@@ -1,0 +1,4 @@
+redis:
+  cache: cache-dev-redis
+  vat: vat-dev-redis
+  app-api: app-dev-redis

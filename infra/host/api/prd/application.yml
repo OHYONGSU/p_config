@@ -1,0 +1,5 @@
+api:
+  hermes: api-hermes-prd-end-point
+  terry: api-terry-prd-end-point
+  platform: api-platform-prd-end-point
+  dingdong: api-dingdong-prd-end-point

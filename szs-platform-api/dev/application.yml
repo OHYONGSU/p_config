@@ -1,2 +1,0 @@
-redis-url: 'dev-redis'
-database-url: '${platform-database-host} platform dev'
